@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "9d727b6c_2b1a44a6",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1018797
+      },
+      "writtenOn": "2021-01-15T19:40:03Z",
+      "side": 1,
+      "message": "Hey guys, checkout this sweet algo",
+      "revId": "f002a00871900681cce77d3bc0a764c4f554162b",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
+    }
+  ]
+}
